@@ -1,5 +1,5 @@
 """
-Reference : https://deep-learning-study.tistory.com/104
+Reference : https://deep-learning-study.tistory.com/105
 
 Required Module :
  - opencv-python
