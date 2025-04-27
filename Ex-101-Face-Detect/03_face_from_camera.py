@@ -37,7 +37,7 @@ def detect_faces():
         cv2.imshow('Face Detection', frame)
 
         # 'q'를 누르면 종료합니다.
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(1) & 0xFF == 27:
             break
 
     # 웹캠을 끕니다.
