@@ -1,5 +1,8 @@
 """
 Reference : https://deep-learning-study.tistory.com/99
+
+OpenCV 공식 문서:
+ - https://docs.opencv.org/4.11.0/d6/d00/tutorial_py_root.html
 """
 import cv2
 import sys
